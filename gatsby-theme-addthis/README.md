@@ -7,13 +7,13 @@ Rename or Copy `.env.example` file to `.env` and add your public id from AddThis
 
 ```html
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-1234abc"></script>
-´´´
+```
 
 So here `ra-1234abc` is your `ADDTHIS_PUBLIC_ID` that you have to add to the `.env` file 
-´´´sh
+```sh
 # .env content
 ADDTHIS_PUBLIC_ID=ra-1234abc
-´´´
+```
 
 Configure `gatsby-theme-addthis` and pass the public id by using [dotenv](https://www.npmjs.com/package/dotenv).
 
