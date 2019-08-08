@@ -1,0 +1,18 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "AWolf81 <awolf2904@gmail.com> (@awolf81)",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "@awolf81/gatsby-theme-addthis": "*",
+    "dotenv": "^8.0.0",
+    "gatsby": "^2.13.53",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
