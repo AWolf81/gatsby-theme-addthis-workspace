@@ -1,6 +1,6 @@
 {
   "name": "@awolf81/gatsby-theme-addthis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "author": "Alexander Wolf <awolf2904@gmail> (@awolf81)",
   "repository": {
@@ -8,7 +8,11 @@
     "url": "https://github.com/awolf81/gatsby-theme-addthis-workspace"
   },
   "license": "MIT",
-  "keywords": ["gatsby", "gatsby-plugins", "gatsby-theme"],
+  "keywords": [
+    "gatsby",
+    "gatsby-plugins",
+    "gatsby-theme"
+  ],
   "peerDependencies": {
     "gatsby": "^2.6.0"
   },
