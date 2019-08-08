@@ -4,6 +4,7 @@
   "main": "index.js",
   "author": "AWolf81 <awolf2904@gmail> (@awolf81)",
   "license": "MIT",
+  "keywords": ["gatsby", "gatsby-plugins", "gatsby-theme"],
   "peerDependencies": {
     "gatsby": "^2.6.0"
   },
