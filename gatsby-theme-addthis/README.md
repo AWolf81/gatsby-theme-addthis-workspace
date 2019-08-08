@@ -2,8 +2,8 @@
 
 Gatsby Theme to add the AddThis share buttons to your Gatsby Site.
 
-# Usage example of `gatsby-theme-addthis`
-Rename or Copy `.env.example` file to `.env` and add your public id from AddThis [dashboard](https://www.addthis.com/dashboard). Then click on `Get the code` and copy the last part of the url e.g. the script might look like
+# Usage example
+Rename or copy `.env.example` file to `.env` and add your public id from AddThis [dashboard](https://www.addthis.com/dashboard). Then click on `Get the code` and copy the last part of the url e.g. the script might look like
 
 ```html
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-1234abc"></script>
