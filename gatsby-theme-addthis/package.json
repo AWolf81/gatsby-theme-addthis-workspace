@@ -14,7 +14,7 @@
     "gatsby-theme"
   ],
   "peerDependencies": {
-    "gatsby": "^2.6.0"
+    "gatsby": "^2.18.25"
   },
   "dependencies": {
     "react-helmet": "^5.2.1"
